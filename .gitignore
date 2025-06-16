@@ -1,0 +1,34 @@
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Ambientes virtuais
+venv/
+.env/
+.env
+
+# Cache e arquivos temporários do Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Arquivos de log e temporários
+*.log
+*.tmp
+*.bak
+
+# Arquivos de IDEs
+.vscode/
+.idea/
+
+# Arquivos de pacotes/compilações
+dist/
+build/
+*.egg-info/
+
+# Arquivos de configuração de testes e ferramentas
+pytest_cache/
+.mypy_cache/
+.cache/
